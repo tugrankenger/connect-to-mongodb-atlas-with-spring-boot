@@ -1,4 +1,4 @@
-<h1 align="center"># connect-to-mongodb-atlas-with-spring-boot</h1>
+<h1 align="center"> connect-to-mongodb-atlas-with-spring-boot</h1>
 
 ✅ We will connect to the mongodb atlas database using spring boot and read the data:
 
